@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hoang, currently a third-year student at UIT
+### Hi there 👋 I'm Hoang, currently a Software engineer at NAB
 ### Passionate about backend developing, microservices, cloud,...
 
 - 🌱 I’m currently learning microservices & front-end frameworks
