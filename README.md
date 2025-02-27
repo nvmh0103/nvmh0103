@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hoang, currently a Software engineer at NAB
+### Hi there 👋 I'm Hoang, currently a Software engineer at Employment Hero
 ### Passionate about backend developing, microservices, cloud,...
 
 - 🌱 I’m currently learning microservices & front-end frameworks
